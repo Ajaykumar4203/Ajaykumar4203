@@ -48,7 +48,7 @@ I'm a software enthusiast with a love for problem-solving and creative projects.
 
 
 ## Achievements
-* NPTEL Course: Internet of Things(IOT)
+* NPTEL Certificate (IOT)
 
 ## Contact
 
